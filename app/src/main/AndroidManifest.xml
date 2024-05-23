@@ -20,7 +20,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBLCt6BLKhwgvQQmeyn6YibEbhcPThKcdc" />
+            android:value="AIzCt6BLKhwgvQQmeyn6YibEbhcPThKcdc" />// I have put Wrong Key due to GitHub Restrictions
 
         <activity
             android:name=".MainActivity"
